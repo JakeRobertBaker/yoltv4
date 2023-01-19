@@ -1,3 +1,7 @@
+# Modifications
+Quick and messy adaptation of AVE's yoltv4 pipeline to xview dat
+
+# Original Readme
 # YOLTv4 # 
 
 ![Alt text](/results/__examples/header.jpg?raw=true "")
